@@ -1,3 +1,3 @@
 ﻿Public Class Class1
-    Private x As String
+    Private x As Double
 End Class
