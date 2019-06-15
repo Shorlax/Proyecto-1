@@ -1,3 +1,3 @@
 ﻿Public Class Class1
-    Private x As Double
+    Private x As String
 End Class
