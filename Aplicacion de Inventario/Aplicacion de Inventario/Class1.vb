@@ -1,3 +1,3 @@
 ﻿Public Class Class1
-    Private x As Integer
+    Private z As Integer
 End Class
