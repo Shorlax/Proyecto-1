@@ -6,7 +6,6 @@
     Private precio As Double
     Private cantMovimientos As Integer
 
-
     Public Sub actualizar()
 
     End Sub
