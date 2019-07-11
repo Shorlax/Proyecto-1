@@ -1,2 +1,4 @@
-﻿Public Class TipoPago
-End Class
+﻿Public Enum TipoPago
+    Credito
+    Contado
+End Enum
