@@ -73,18 +73,18 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Articulo.vb" />
-    <Compile Include="Cliente.vb" />
-    <Compile Include="ctrlArticulo.vb" />
-    <Compile Include="ctrlCliente.vb" />
-    <Compile Include="ctrlFactura.vb" />
-    <Compile Include="ctrlProveedor.vb" />
-    <Compile Include="ctrlReportes.vb" />
-    <Compile Include="ctrlUsuario.vb" />
-    <Compile Include="Factura.vb" />
-    <Compile Include="FacturaClientes.vb" />
-    <Compile Include="FacturaProveedores.vb" />
-    <Compile Include="Familia.vb" />
+    <Compile Include="Modelo\Articulo.vb" />
+    <Compile Include="Modelo\Cliente.vb" />
+    <Compile Include="Controlador\ctrlArticulo.vb" />
+    <Compile Include="Controlador\ctrlCliente.vb" />
+    <Compile Include="Controlador\ctrlFactura.vb" />
+    <Compile Include="Controlador\ctrlProveedor.vb" />
+    <Compile Include="Controlador\ctrlReportes.vb" />
+    <Compile Include="Controlador\ctrlUsuario.vb" />
+    <Compile Include="Modelo\Factura.vb" />
+    <Compile Include="Modelo\FacturaClientes.vb" />
+    <Compile Include="Modelo\FacturaProveedores.vb" />
+    <Compile Include="Modelo\Familia.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -100,12 +100,12 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="Persona.vb" />
-    <Compile Include="Reportes.vb" />
-    <Compile Include="SubFamilia.vb" />
-    <Compile Include="TipoCliente.vb" />
-    <Compile Include="TipoPago.vb" />
-    <Compile Include="Usuario.vb" />
+    <Compile Include="Modelo\Persona.vb" />
+    <Compile Include="Modelo\Reportes.vb" />
+    <Compile Include="Modelo\SubFamilia.vb" />
+    <Compile Include="Modelo\TipoCliente.vb" />
+    <Compile Include="Modelo\TipoPago.vb" />
+    <Compile Include="Modelo\Usuario.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
@@ -127,6 +127,9 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Vista\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
