@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Aplicacion_de_Inventario.Articulo">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Articulo.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_de_Inventario.SubFamilia">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SubFamilia.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_de_Inventario.Familia">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Familia.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_de_Inventario.Persona">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persona.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_de_Inventario.Cliente">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cliente.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_de_Inventario.Usuario">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Usuario.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_de_Inventario.Factura">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factura.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_de_Inventario.TipoPago">
+    <Position X="7.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoPago.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_de_Inventario.Reportes">
+    <Position X="9.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reportes.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_de_Inventario.FacturaClientes">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FacturaClientes.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_de_Inventario.FacturaProveedores">
+    <Position X="11.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FacturaProveedores.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_de_Inventario.ctrlArticulo">
+    <Position X="13.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ctrlArticulo.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_de_Inventario.ctrlFactura">
+    <Position X="13.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ctrlFactura.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_de_Inventario.ctrlProveedor">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ctrlProveedor.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_de_Inventario.ctrlUsuario">
+    <Position X="11.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ctrlUsuario.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_de_Inventario.ctrlReportes">
+    <Position X="9.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ctrlReportes.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_de_Inventario.ctrlCliente">
+    <Position X="11.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ctrlCliente.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Aplicacion_de_Inventario.TipoCliente">
+    <Position X="3.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoCliente.vb</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
